@@ -1,6 +1,6 @@
-# 🏆 Réalisations GitHub 🏆
-
 [Passer à l'anglais 🇬🇧](README_EN.md)
+
+# 🏆 Réalisations GitHub 🏆
 
 Bienvenue dans le dépôt **Réalisations GitHub**, où nous présentons et documentons les différentes réalisations disponibles sur GitHub, y compris des détails sur la façon de les obtenir. Les réalisations peuvent être affichées sur votre profil GitHub, ajoutant une dimension ludique à vos contributions.
 
