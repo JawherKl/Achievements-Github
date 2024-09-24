@@ -1,6 +1,6 @@
-# 🏆 GitHub Achievements 🏆
-
 [Switch to French 🇫🇷](README_FR.md)
+
+# 🏆 GitHub Achievements 🏆
 
 Welcome to the **GitHub Achievements** repository, where we showcase and document the various achievements available on GitHub, including details on how to earn them. Achievements can be displayed on your GitHub profile, adding a fun and rewarding aspect to your contributions.
 
